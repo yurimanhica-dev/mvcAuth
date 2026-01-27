@@ -1,0 +1,221 @@
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\appsettings.Development.json
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\appsettings.json
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\codehub - mvc.staticwebassets.runtime.json
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\codehub - mvc.staticwebassets.endpoints.json
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\codehub - mvc.exe
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\codehub - mvc.deps.json
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\codehub - mvc.runtimeconfig.json
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\codehub - mvc.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\codehub - mvc.pdb
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Azure.Core.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Azure.Identity.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Humanizer.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\Mono.TextTemplating.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.ClientModel.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.CodeDom.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Composition.Convention.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Composition.Hosting.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Composition.Runtime.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Composition.TypedParts.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Drawing.Common.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Memory.Data.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Runtime.Caching.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Security.Permissions.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\System.Windows.Extensions.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub - mvc.csproj.AssemblyReference.cache
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub - mvc.GeneratedMSBuildEditorConfig.editorconfig
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub - mvc.AssemblyInfoInputs.cache
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub - mvc.AssemblyInfo.cs
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub - mvc.csproj.CoreCompileInputs.cache
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub - mvc.MvcApplicationPartsAssemblyInfo.cache
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub - mvc.RazorAssemblyInfo.cache
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub - mvc.RazorAssemblyInfo.cs
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\scopedcss\bundle\codehub - mvc.styles.css
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\scopedcss\projectbundle\codehub - mvc.bundle.scp.css
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\gs6wkmrzdn-b9sayid5wm.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\dtrbe9a2cd-61n19gt1b8.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\1921zfc9r4-xtxxf3hu2r.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\71i6ou4t4c-bqjiyaj88i.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\if3b56wchp-c2jlpeoesf.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\x7kexqp006-erw9l3u2r3.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\vepfcpoi56-aexeepp0ev.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\8xvyqjdbn8-d7shbmvgxk.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\98bnlx2ice-ausgxo2sd3.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\tbf2v9p6cb-k8d9w2qqmf.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\7a5ubxo0py-cosvhxvwiu.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\284ueln1bw-ub07r2b239.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\ryjnws0e79-fvhpjtyr6v.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\gazsqdwkjr-b7pk76d08c.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\7a73dgqv5s-fsbi9cje9m.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\qd7zx3pl63-rzd6atqjts.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\jjxs3j892v-ee0r1s7dh0.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\96mcnxchzo-dxx9fxp4il.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\jxmwqbqpe0-jd9uben2k1.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\hiurebt66x-khv3u5hwcm.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\vo5nx638bd-r4e9w2rdcm.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\hqylgph4w9-lcd1t2u6c8.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\xthnm9wo5j-c2oey78nd0.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\q5st6ekl6i-tdbxkamptv.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\pu2tlqbj37-j5mq2jizvt.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\aukojud751-06098lyss8.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\poxo1moctm-nvvlpmu67g.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\cyuowuvfdx-s35ty4nyc5.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\ub9rjs2i0y-pj5nd1wqec.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\h7yf8qqabn-46ein0sx1k.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\mnrsmo4dbr-v0zj4ognzu.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\e4mqsndigf-37tfw0ft22.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\0rnvvo7q38-hrwsygsryq.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\el0dn54p51-pk9g2wxc8p.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\dpkp9sdcxr-ft3s53vfgj.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\gifjzyqsql-6cfz1n2cew.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\fk4s12x24g-6pdc2jztkx.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\jmz8ece56l-493y06b0oq.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\buukluqaqy-iovd86k7lj.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\ml9cktbyrs-vr1egmr9el.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\7f9lhrul0w-kbrnm935zg.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\arsb8uqxpa-jj8uyg4cgr.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\i1engktq79-y7v9cxd14o.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\xm7da2o33g-notf2xhcfb.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\0ttbkj2jb8-h1s4sie4z3.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\hipjzc36ih-63fj8s7r0e.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\yow711v7nz-0j3bgjxly4.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\fc6fr8lr16-47otxtyo56.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\zy7xuz84cp-4v8eqarkd7.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\apdd3eog4j-356vix0kms.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\zix2ple2u0-83jwlth58m.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\vy5c75hm1g-mrlpezrjn3.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\d93qogjwcq-lzl9nlhx6b.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\nrbl6ntdu4-ag7o75518u.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\dkdkk974nm-x0q3zqp4vz.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\shb7e6ggd1-0i3buxo5is.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\e41mhtbk1h-o1o13a6vjx.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\3lc6ykzs7t-ttgo8qnofa.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\4yh63mq7y4-2z0ns9nrw6.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\dtjd28hafz-muycvpuwrr.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\ii8imwmr1w-87fc7y1x7t.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\rp7cd2hnxs-mlv21k5csn.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\dlszg4cuyf-8m69ozkjde.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\compressed\go2qxt5ixd-8m69ozkjde.gz
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\staticwebassets.build.json
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\staticwebassets.development.json
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\staticwebassets\msbuild.codehub - mvc.Microsoft.AspNetCore.StaticWebAssets.props
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\staticwebassets\msbuild.codehub - mvc.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\staticwebassets\msbuild.build.codehub - mvc.props
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.codehub - mvc.props
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.codehub - mvc.props
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\staticwebassets.pack.json
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub .D2EDD581.Up2Date
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub - mvc.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\refint\codehub - mvc.dll
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub - mvc.pdb
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\codehub - mvc.genruntimeconfig.cache
+Y:\dev\.NET\MVC\Login Train\codehub - mvc\Autentication\obj\Debug\net9.0\ref\codehub - mvc.dll

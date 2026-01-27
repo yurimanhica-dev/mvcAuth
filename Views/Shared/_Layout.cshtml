@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="utf-8" />
+    <title>@ViewData["Title"] - Dashboard</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap" rel="stylesheet">
+    <!-- Google Icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" />
+    <!-- CSS -->
+    <link rel="stylesheet" href="~/css/dashboard.css"  asp-append-version="true"/>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+
+<body>
+
+<div class="dashboard-container">
+
+  <!-- SIDEBAR -->
+  <aside class="dashboard-sidebar" id="dashboardSidebar">
+    <div class="dashboard-brand">
+          <button class="dashboard-sidebar-toggle">
+            <span class="material-symbols-rounded">menu</span>
+          </button>
+          <a class="logo">SIGESAUTH</a>
+        </div>
+        <nav class="dashboard-nav">
+          <div class="dashboard-nav-section">
+            <a asp-controller="Dashboard" asp-action="Overview" class="dashboard-nav-item active" data-view="overview">
+              <span class="nav-icon material-symbols-rounded">dashboard</span>
+              <span class="nav-label">Overview</span>
+            </a>
+            <a asp-controller="Dashboard" asp-action="Projects" class="dashboard-nav-item" data-view="projects">
+              <span class="nav-icon material-symbols-rounded">folder</span>
+              <span class="nav-label">Projects</span>
+            </a>
+            <a asp-controller="Dashboard" asp-action="Tasks" class="dashboard-nav-item" data-view="tasks">
+              <span class="nav-icon material-symbols-rounded">checklist</span>
+              <span class="nav-label">Tasks</span>
+            </a>
+            <a asp-controller="Dashboard" asp-action="Reports" class="dashboard-nav-item" data-view="reports">
+              <span class="nav-icon material-symbols-rounded">bar_chart</span>
+              <span class="nav-label">Reports</span>
+            </a>
+            <a asp-controller="Dashboard" asp-action="Settings" class="dashboard-nav-item" data-view="settings">
+              <span class="nav-icon material-symbols-rounded">settings</span>
+              <span class="nav-label">Settings</span>
+            </a>
+          </div>
+        </nav>
+        <!-- Back to Site Button -->
+        <div class="sidebar-footer">
+          <a href="#" class="btn btn-secondary sidebar-back-button">
+            <span class="material-symbols-rounded">home</span>
+            <span class="btn-label">Back to Site</span>
+          </a>
+        </div>
+    </aside>
+
+  <div class="dashboard-sidebar-overlay" id="dashboardSidebarOverlay"></div>
+
+  <!-- MAIN -->
+  <main class="dashboard-main">
+
+    <!-- HEADER -->
+    <header class="dashboard-header">
+      <div class="dashboard-header-content">
+            <button class="dashboard-sidebar-toggle">
+              <span class="material-symbols-rounded">menu</span>
+            </button>
+            <h1 class="dashboard-header-title" id="dashboardTitle">Dashboard</h1>
+          </div>
+          <!-- Search Container -->
+          <div class="search-container" id="searchContainer">
+            <span class="search-icon material-symbols-rounded">search</span>
+            <input type="search" class="search-input form-input" placeholder="Search projects, tasks, reports..." id="searchInput" />
+            <button class="search-close btn" id="searchClose">
+              <span class="material-symbols-rounded">close</span>
+            </button>
+          </div>
+          <!-- Header Actions -->
+          <div class="dashboard-header-actions">
+            <!-- Mobile Search Button -->
+            <button class="mobile-search-btn btn btn-ghost" id="mobileSearchBtn">
+              <span class="material-symbols-rounded">search</span>
+            </button>
+            <!-- Notification Button -->
+            <div class="notification-button">
+              <span class="material-symbols-rounded">notifications</span>
+              <div class="notification-badge">3</div>
+            </div>
+            <!-- User Profile -->
+            <div class="user-menu" id="userMenu">
+              <div class="user-menu-trigger" id="user-menu-trigger">
+                <div class="user-avatar-small">
+                  <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face&auto=format" alt="User Avatar" />
+                </div>
+              </div>
+              <div class="user-menu-dropdown">
+                <a href="#" class="user-menu-item">
+                  <span class="icon material-symbols-rounded">person</span>
+                  <span>Profile</span>
+                </a>
+                <!-- Theme Toggle inside dropdown -->
+                <div class="user-menu-item theme-item">
+                  <span class="icon material-symbols-rounded">palette</span>
+                  <div class="theme-toggle" id="theme-toggle">
+                    <div class="theme-option active" data-theme="light">Light</div>
+                    <div class="theme-option" data-theme="dark">Dark</div>
+                  </div>
+                </div>
+                
+                  <partial name="_LoginPartial" />
+                 
+              </div>
+            </div>
+          </div>
+    </header>
+
+    <!-- 🔥 CONTEÚDO DINÂMICO -->
+    <div class="dashboard-content">
+        @RenderBody()
+    </div>
+
+  </main>
+
+</div>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+<script src="~/js/dashboard.js"></script>
+
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
