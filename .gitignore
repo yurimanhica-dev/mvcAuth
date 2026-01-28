@@ -1,0 +1,22 @@
+# ===============================
+# Configurações sensíveis
+# ===============================
+appsettings.Development.json
+appsettings.Production.json
+appsettings.Staging.json
+appsettings.json
+
+# Publish (se tiver configs dentro)
+publish/
+bin/
+obj/
+
+# ===============================
+# User Secrets (.NET)
+# ===============================
+**/secrets.json
+
+# ===============================
+# Logs
+# ===============================
+*.log
