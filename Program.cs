@@ -1,4 +1,5 @@
 using Autentication.Data;
+using Autentication.Helpers;
 using Autentication.Models;
 using Autentication.Services;
 using Microsoft.AspNetCore.Identity;
@@ -14,20 +15,64 @@ builder.Services.AddDbContext<AppDbContext>(options =>
 
 builder.Services.AddIdentity<Users, IdentityRole>(options =>
 {
+    // Password
     options.Password.RequireNonAlphanumeric = false;
     options.Password.RequiredLength = 8;
     options.Password.RequireUppercase = false;
     options.Password.RequireLowercase = false;
+
+    // User
     options.User.RequireUniqueEmail = true;
+
+    // SignIn
     options.SignIn.RequireConfirmedEmail = false;
     options.SignIn.RequireConfirmedPhoneNumber = false;
     options.SignIn.RequireConfirmedAccount = false;
+
+    // Lockout
+    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(15);
+    options.Lockout.MaxFailedAccessAttempts = 5;
+    options.Lockout.AllowedForNewUsers = true;
 })
     .AddEntityFrameworkStores<AppDbContext>()
     .AddDefaultTokenProviders();
 
 builder.Services.Configure<EmailSettingsModel>(builder.Configuration.GetSection("EmailSettings"));
 builder.Services.AddTransient<IEmailService, EmailServices>();
+
+var google = builder.Configuration.GetSection("Authentication:Google");
+builder.Services.AddAuthentication().
+AddGoogle(options =>
+{
+    options.ClientId = google["ClientId"]!;
+    options.ClientSecret = google["ClientSecret"]!;
+    options.CallbackPath = "/signin-google";
+    options.Scope.Add("profile");
+    options.Scope.Add("email");
+});
+
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.Cookie.HttpOnly = true;
+    options.Cookie.SecurePolicy = CookieSecurePolicy.Always;
+    options.SlidingExpiration = true;
+    options.ExpireTimeSpan = TimeSpan.FromMinutes(15); // sessão longa
+});
+
+builder.Services.Configure<CookiePolicyOptions>(options =>
+{
+    options.CheckConsentNeeded = context => true;
+    options.MinimumSameSitePolicy = SameSiteMode.None;
+});
+
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromHours(1); // igual à sua sessão de auth
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
+
+
 
 var app = builder.Build();
 
@@ -42,6 +87,10 @@ if (!app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseRouting();
 
+app.UseStaticFiles();
+app.UseSession();
+app.UseMiddleware<LockScreenMiddleware>();
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapStaticAssets();

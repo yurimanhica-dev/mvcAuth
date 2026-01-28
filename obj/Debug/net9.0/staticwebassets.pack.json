@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\autentication.bundle.scp.css",
-      "PackagePath": "staticwebassets\\autentication.oyjtk509sp.bundle.scp.css"
+      "PackagePath": "staticwebassets\\autentication.a3iuie6czg.bundle.scp.css"
     },
     {
       "Id": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\account.css",
@@ -21,12 +21,24 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\2149105853.jpg",
+      "PackagePath": "staticwebassets\\images\\2149105853.jpg"
+    },
+    {
+      "Id": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\70001986_moso 21.jpg",
+      "PackagePath": "staticwebassets\\images\\70001986_moso 21.jpg"
+    },
+    {
       "Id": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\bg.jpg",
       "PackagePath": "staticwebassets\\images\\bg.jpg"
     },
     {
-      "Id": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\login.jpg",
-      "PackagePath": "staticwebassets\\images\\login.jpg"
+      "Id": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\gset.jpg",
+      "PackagePath": "staticwebassets\\images\\gset.jpg"
+    },
+    {
+      "Id": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\malesoft.ico",
+      "PackagePath": "staticwebassets\\images\\malesoft.ico"
     },
     {
       "Id": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\singIn.jpg",

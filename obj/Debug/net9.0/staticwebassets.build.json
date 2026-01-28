@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "PEP1vtu/2wUDVovHtWA+9nf9jBcSzPfWU8EtilKjLXA=",
+  "Hash": "B43clCtHSUXX4Au+eS8Gil2mm/X1NcKNvFMgS8vSOaM=",
   "Source": "autentication",
   "BasePath": "_content/autentication",
   "Mode": "Default",
@@ -206,12 +206,12 @@
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\6ky5vwgz4q-0no3rsanio.gz",
+      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\6ky5vwgz4q-ptyczkyoeo.gz",
       "SourceId": "autentication",
       "SourceType": "Discovered",
       "ContentRoot": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/autentication",
-      "RelativePath": "css/site#[.{fingerprint=0no3rsanio}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=ptyczkyoeo}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -220,8 +220,8 @@
       "RelatedAsset": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "xiec65hnm4",
-      "Integrity": "d2H6sPGxXaCDUn+4Rd7Xz7KBysvNVFXO13wJf2Y39p8=",
+      "Fingerprint": "swnd88gbi2",
+      "Integrity": "tF0cCeuH4+XxOp79jVLIOhgKdlxGHrNaGJZ77raeAyY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\site.css"
@@ -332,6 +332,27 @@
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
+      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\bgbydh0uo5-wh91epy4cx.gz",
+      "SourceId": "autentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/autentication",
+      "RelativePath": "images/malesoft#[.{fingerprint=wh91epy4cx}]?.ico.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\malesoft.ico",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "ze5qyqbbsy",
+      "Integrity": "FejajXSRc/uDZoW0AT6Vq030edFxIhr62Q2Q1Dx+dS0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\malesoft.ico"
+    },
+    {
       "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\blxtzkp6im-ee0r1s7dh0.gz",
       "SourceId": "autentication",
       "SourceType": "Discovered",
@@ -353,12 +374,12 @@
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\c4nkd5u7ry-oyjtk509sp.gz",
+      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\c4nkd5u7ry-a3iuie6czg.gz",
       "SourceId": "autentication",
       "SourceType": "Computed",
       "ContentRoot": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/autentication",
-      "RelativePath": "autentication#[.{fingerprint=oyjtk509sp}]?.styles.css.gz",
+      "RelativePath": "autentication#[.{fingerprint=a3iuie6czg}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -367,8 +388,8 @@
       "RelatedAsset": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\scopedcss\\bundle\\autentication.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1b745i9xom",
-      "Integrity": "/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04=",
+      "Fingerprint": "jltglkvkbt",
+      "Integrity": "1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\scopedcss\\bundle\\autentication.styles.css"
@@ -563,12 +584,12 @@
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\e94ydnpq1n-ujzm6dflqi.gz",
+      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\e94ydnpq1n-bb37i8kzxs.gz",
       "SourceId": "autentication",
       "SourceType": "Discovered",
       "ContentRoot": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/autentication",
-      "RelativePath": "css/account#[.{fingerprint=ujzm6dflqi}]?.css.gz",
+      "RelativePath": "css/account#[.{fingerprint=bb37i8kzxs}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -577,8 +598,8 @@
       "RelatedAsset": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\account.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "jdsd706rgj",
-      "Integrity": "GajbrsvGGWGRnAjqruJsWZ5/I9/leMShpjJEopvD/qo=",
+      "Fingerprint": "36076n3e2g",
+      "Integrity": "my66JpytrodTgq7ds50Y6qR+uTU3iH6PrefeEqytkGo=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\account.css"
@@ -794,12 +815,12 @@
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\ilhucx6z5a-oyjtk509sp.gz",
+      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\ilhucx6z5a-a3iuie6czg.gz",
       "SourceId": "autentication",
       "SourceType": "Computed",
       "ContentRoot": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/autentication",
-      "RelativePath": "autentication#[.{fingerprint=oyjtk509sp}]!.bundle.scp.css.gz",
+      "RelativePath": "autentication#[.{fingerprint=a3iuie6czg}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -808,8 +829,8 @@
       "RelatedAsset": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\autentication.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "1b745i9xom",
-      "Integrity": "/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04=",
+      "Fingerprint": "jltglkvkbt",
+      "Integrity": "1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\autentication.bundle.scp.css"
@@ -1067,12 +1088,12 @@
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\js\\dashboard.js"
     },
     {
-      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\psnf44a92h-i3s8yv1i8u.gz",
+      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\psnf44a92h-638rdlgyex.gz",
       "SourceId": "autentication",
       "SourceType": "Discovered",
       "ContentRoot": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/autentication",
-      "RelativePath": "css/dashboard#[.{fingerprint=i3s8yv1i8u}]?.css.gz",
+      "RelativePath": "css/dashboard#[.{fingerprint=638rdlgyex}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1081,8 +1102,8 @@
       "RelatedAsset": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\dashboard.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "67iqsf4v7k",
-      "Integrity": "ohb9Hr+utVYjhZLxIMAlY4u+GzFukD7mLIAbU9cdhi8=",
+      "Fingerprint": "xulncgv9cy",
+      "Integrity": "acp1JYupq30Ds8T+n0Nrz+GGb7fu3yzHtVS1bdmgN20=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\dashboard.css"
@@ -1417,8 +1438,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "oyjtk509sp",
-      "Integrity": "UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8=",
+      "Fingerprint": "a3iuie6czg",
+      "Integrity": "6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\scopedcss\\bundle\\autentication.styles.css"
@@ -1438,8 +1459,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "oyjtk509sp",
-      "Integrity": "UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8=",
+      "Fingerprint": "a3iuie6czg",
+      "Integrity": "6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\autentication.bundle.scp.css"
@@ -1459,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ujzm6dflqi",
-      "Integrity": "hljsaL15HGPfpIRvSYBk3fM+TjDP5yufoqYZcrbcXEk=",
+      "Fingerprint": "bb37i8kzxs",
+      "Integrity": "h34YK+2w/Ec21asm9gEQ+JkpGU/oKPk3N63zKgeYQvg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\account.css"
@@ -1480,8 +1501,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "i3s8yv1i8u",
-      "Integrity": "Pg5Xi1B6NuJWXfqN8fnOjO4bMdl85y77b0nAOm9mT3s=",
+      "Fingerprint": "638rdlgyex",
+      "Integrity": "soInLYVFpjM7zagnV3lZWjkqKfWg98+f9Rofndu8wXE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\dashboard.css"
@@ -1501,8 +1522,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "0no3rsanio",
-      "Integrity": "hBVPJD25Ci6CdtAV2q9PzgqhPgeyTrOW6b3jjogI2o4=",
+      "Fingerprint": "ptyczkyoeo",
+      "Integrity": "s9Es4YKQSUnzH49dPIK34qZSvI63CroS8uiTxO6UMrE=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -1529,6 +1550,48 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\2149105853.jpg",
+      "SourceId": "autentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\",
+      "BasePath": "_content/autentication",
+      "RelativePath": "images/2149105853#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i13zxc0xhm",
+      "Integrity": "2lQ6U2E9o4z/vwIi3Z7MPFvsNudESyq8kdVK5MB/hfM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\2149105853.jpg"
+    },
+    {
+      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\70001986_moso 21.jpg",
+      "SourceId": "autentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\",
+      "BasePath": "_content/autentication",
+      "RelativePath": "images/70001986_moso 21#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8uwits1qz2",
+      "Integrity": "wDPLFeMe53g0hBgFetZztZlloXadpmiIEapHrJvS21k=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\70001986_moso 21.jpg"
+    },
+    {
       "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\bg.jpg",
       "SourceId": "autentication",
       "SourceType": "Discovered",
@@ -1550,12 +1613,12 @@
       "OriginalItemSpec": "wwwroot\\images\\bg.jpg"
     },
     {
-      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\login.jpg",
+      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\gset.jpg",
       "SourceId": "autentication",
       "SourceType": "Discovered",
       "ContentRoot": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\",
       "BasePath": "_content/autentication",
-      "RelativePath": "images/login#[.{fingerprint}]?.jpg",
+      "RelativePath": "images/gset#[.{fingerprint}]?.jpg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1564,11 +1627,32 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "a6m2nwzas5",
-      "Integrity": "Pnzu1FN79qbVXrB7qcIvR0ZnV8FLo1RYTyUDbpbgpqA=",
+      "Fingerprint": "ng7a2c5ct1",
+      "Integrity": "uXk+lq1254Pi3QTGD87hmA3sfjM/oLjQB37Y7J8Wafc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\login.jpg"
+      "OriginalItemSpec": "wwwroot\\images\\gset.jpg"
+    },
+    {
+      "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\malesoft.ico",
+      "SourceId": "autentication",
+      "SourceType": "Discovered",
+      "ContentRoot": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\",
+      "BasePath": "_content/autentication",
+      "RelativePath": "images/malesoft#[.{fingerprint}]?.ico",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wh91epy4cx",
+      "Integrity": "rCe1v55ZRw2iZQ9L1qZpg4fKHhShGV9sMitCq8BeHZA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\malesoft.ico"
     },
     {
       "Identity": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\singIn.jpg",
@@ -2917,13 +3001,13 @@
   ],
   "Endpoints": [
     {
-      "Route": "autentication.bundle.scp.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\ilhucx6z5a-oyjtk509sp.gz",
+      "Route": "autentication.a3iuie6czg.bundle.scp.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\ilhucx6z5a-a3iuie6czg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004310344828"
+          "Quality": "0.005102040816"
         }
       ],
       "ResponseHeaders": [
@@ -2933,19 +3017,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "195"
         },
         {
           "Name": "ETag",
-          "Value": "\"/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04=\""
+          "Value": "\"1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -2961,18 +3045,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8=\""
+          "Value": "W/\"6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "a3iuie6czg"
+        },
+        {
+          "Name": "label",
+          "Value": "autentication.bundle.scp.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8="
+          "Value": "sha256-6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94="
         }
       ]
     },
     {
-      "Route": "autentication.bundle.scp.css",
+      "Route": "autentication.a3iuie6czg.bundle.scp.css",
       "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\autentication.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2982,7 +3074,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "300"
+          "Value": "252"
         },
         {
           "Name": "Content-Type",
@@ -2990,121 +3082,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8=\""
+          "Value": "\"6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8="
-        }
-      ]
-    },
-    {
-      "Route": "autentication.bundle.scp.css.gz",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\ilhucx6z5a-oyjtk509sp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04="
-        }
-      ]
-    },
-    {
-      "Route": "autentication.oyjtk509sp.bundle.scp.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\ilhucx6z5a-oyjtk509sp.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.004310344828"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oyjtk509sp"
+          "Value": "a3iuie6czg"
         },
         {
           "Name": "label",
@@ -3112,13 +3104,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8="
+          "Value": "sha256-6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94="
         }
       ]
     },
     {
-      "Route": "autentication.oyjtk509sp.bundle.scp.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\autentication.bundle.scp.css",
+      "Route": "autentication.a3iuie6czg.bundle.scp.css.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\ilhucx6z5a-a3iuie6czg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3127,7 +3119,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "300"
+          "Value": "195"
         },
         {
           "Name": "Content-Type",
@@ -3135,56 +3127,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8=\""
+          "Value": "\"1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "oyjtk509sp"
-        },
-        {
-          "Name": "label",
-          "Value": "autentication.bundle.scp.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8="
-        }
-      ]
-    },
-    {
-      "Route": "autentication.oyjtk509sp.bundle.scp.css.gz",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\ilhucx6z5a-oyjtk509sp.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "231"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3202,7 +3149,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oyjtk509sp"
+          "Value": "a3iuie6czg"
         },
         {
           "Name": "label",
@@ -3210,18 +3157,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04="
+          "Value": "sha256-1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0="
         }
       ]
     },
     {
-      "Route": "autentication.oyjtk509sp.styles.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\c4nkd5u7ry-oyjtk509sp.gz",
+      "Route": "autentication.a3iuie6czg.styles.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\c4nkd5u7ry-a3iuie6czg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004310344828"
+          "Quality": "0.005102040816"
         }
       ],
       "ResponseHeaders": [
@@ -3231,15 +3178,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "195"
         },
         {
           "Name": "ETag",
-          "Value": "\"/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04=\""
+          "Value": "\"1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3259,13 +3206,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8=\""
+          "Value": "W/\"6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oyjtk509sp"
+          "Value": "a3iuie6czg"
         },
         {
           "Name": "label",
@@ -3273,12 +3220,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8="
+          "Value": "sha256-6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94="
         }
       ]
     },
     {
-      "Route": "autentication.oyjtk509sp.styles.css",
+      "Route": "autentication.a3iuie6czg.styles.css",
       "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\scopedcss\\bundle\\autentication.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3288,7 +3235,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "300"
+          "Value": "252"
         },
         {
           "Name": "Content-Type",
@@ -3296,11 +3243,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8=\""
+          "Value": "\"6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3310,7 +3257,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oyjtk509sp"
+          "Value": "a3iuie6czg"
         },
         {
           "Name": "label",
@@ -3318,13 +3265,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8="
+          "Value": "sha256-6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94="
         }
       ]
     },
     {
-      "Route": "autentication.oyjtk509sp.styles.css.gz",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\c4nkd5u7ry-oyjtk509sp.gz",
+      "Route": "autentication.a3iuie6czg.styles.css.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\c4nkd5u7ry-a3iuie6czg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3333,7 +3280,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "195"
         },
         {
           "Name": "Content-Type",
@@ -3341,11 +3288,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04=\""
+          "Value": "\"1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3363,7 +3310,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "oyjtk509sp"
+          "Value": "a3iuie6czg"
         },
         {
           "Name": "label",
@@ -3371,18 +3318,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04="
+          "Value": "sha256-1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0="
         }
       ]
     },
     {
-      "Route": "autentication.styles.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\c4nkd5u7ry-oyjtk509sp.gz",
+      "Route": "autentication.bundle.scp.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\ilhucx6z5a-a3iuie6czg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004310344828"
+          "Quality": "0.005102040816"
         }
       ],
       "ResponseHeaders": [
@@ -3392,15 +3339,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "195"
         },
         {
           "Name": "ETag",
-          "Value": "\"/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04=\""
+          "Value": "\"1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3420,13 +3367,150 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8=\""
+          "Value": "W/\"6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8="
+          "Value": "sha256-6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94="
+        }
+      ]
+    },
+    {
+      "Route": "autentication.bundle.scp.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\autentication.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "252"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94="
+        }
+      ]
+    },
+    {
+      "Route": "autentication.bundle.scp.css.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\ilhucx6z5a-a3iuie6czg.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0="
+        }
+      ]
+    },
+    {
+      "Route": "autentication.styles.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\c4nkd5u7ry-a3iuie6czg.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.005102040816"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "195"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94="
         }
       ]
     },
@@ -3441,7 +3525,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "300"
+          "Value": "252"
         },
         {
           "Name": "Content-Type",
@@ -3449,11 +3533,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8=\""
+          "Value": "\"6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3463,13 +3547,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-UBLrVT1EgD4cCkp2DPicwJveIHdpZskKS1B4e8smDH8="
+          "Value": "sha256-6p5vmF19c/OGp4lNUuRSww5Q0KsRxqPw4PCgyQCcW94="
         }
       ]
     },
     {
       "Route": "autentication.styles.css.gz",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\c4nkd5u7ry-oyjtk509sp.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\c4nkd5u7ry-a3iuie6czg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3478,7 +3562,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "231"
+          "Value": "195"
         },
         {
           "Name": "Content-Type",
@@ -3486,11 +3570,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04=\""
+          "Value": "\"1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:08:30 GMT"
+          "Value": "Wed, 28 Jan 2026 09:19:33 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3508,18 +3592,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/XrQGZuQ8xgz+Oc5+vCd8CAJisQ47p1f5WtcNn2Py04="
+          "Value": "sha256-1+6Z8Fxfx09/nvs2QAUQJ0oTzWrgIzXvPV1conCjSI0="
         }
       ]
     },
     {
-      "Route": "css/account.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\e94ydnpq1n-ujzm6dflqi.gz",
+      "Route": "css/account.bb37i8kzxs.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\e94ydnpq1n-bb37i8kzxs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000975609756"
+          "Quality": "0.000552486188"
         }
       ],
       "ResponseHeaders": [
@@ -3529,19 +3613,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1024"
+          "Value": "1809"
         },
         {
           "Name": "ETag",
-          "Value": "\"GajbrsvGGWGRnAjqruJsWZ5/I9/leMShpjJEopvD/qo=\""
+          "Value": "\"my66JpytrodTgq7ds50Y6qR+uTU3iH6PrefeEqytkGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 11:02:20 GMT"
+          "Value": "Tue, 27 Jan 2026 15:50:48 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -3557,18 +3641,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hljsaL15HGPfpIRvSYBk3fM+TjDP5yufoqYZcrbcXEk=\""
+          "Value": "W/\"h34YK+2w/Ec21asm9gEQ+JkpGU/oKPk3N63zKgeYQvg=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "bb37i8kzxs"
+        },
+        {
+          "Name": "label",
+          "Value": "css/account.css"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-hljsaL15HGPfpIRvSYBk3fM+TjDP5yufoqYZcrbcXEk="
+          "Value": "sha256-h34YK+2w/Ec21asm9gEQ+JkpGU/oKPk3N63zKgeYQvg="
         }
       ]
     },
     {
-      "Route": "css/account.css",
+      "Route": "css/account.bb37i8kzxs.css",
       "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\account.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3578,7 +3670,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4035"
+          "Value": "8020"
         },
         {
           "Name": "Content-Type",
@@ -3586,121 +3678,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hljsaL15HGPfpIRvSYBk3fM+TjDP5yufoqYZcrbcXEk=\""
+          "Value": "\"h34YK+2w/Ec21asm9gEQ+JkpGU/oKPk3N63zKgeYQvg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 11:02:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hljsaL15HGPfpIRvSYBk3fM+TjDP5yufoqYZcrbcXEk="
-        }
-      ]
-    },
-    {
-      "Route": "css/account.css.gz",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\e94ydnpq1n-ujzm6dflqi.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1024"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GajbrsvGGWGRnAjqruJsWZ5/I9/leMShpjJEopvD/qo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 11:02:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-GajbrsvGGWGRnAjqruJsWZ5/I9/leMShpjJEopvD/qo="
-        }
-      ]
-    },
-    {
-      "Route": "css/account.ujzm6dflqi.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\e94ydnpq1n-ujzm6dflqi.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000975609756"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1024"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GajbrsvGGWGRnAjqruJsWZ5/I9/leMShpjJEopvD/qo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 11:02:20 GMT"
+          "Value": "Tue, 27 Jan 2026 15:50:48 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"hljsaL15HGPfpIRvSYBk3fM+TjDP5yufoqYZcrbcXEk=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ujzm6dflqi"
+          "Value": "bb37i8kzxs"
         },
         {
           "Name": "label",
@@ -3708,13 +3700,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hljsaL15HGPfpIRvSYBk3fM+TjDP5yufoqYZcrbcXEk="
+          "Value": "sha256-h34YK+2w/Ec21asm9gEQ+JkpGU/oKPk3N63zKgeYQvg="
         }
       ]
     },
     {
-      "Route": "css/account.ujzm6dflqi.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\account.css",
+      "Route": "css/account.bb37i8kzxs.css.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\e94ydnpq1n-bb37i8kzxs.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3723,7 +3715,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4035"
+          "Value": "1809"
         },
         {
           "Name": "Content-Type",
@@ -3731,56 +3723,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hljsaL15HGPfpIRvSYBk3fM+TjDP5yufoqYZcrbcXEk=\""
+          "Value": "\"my66JpytrodTgq7ds50Y6qR+uTU3iH6PrefeEqytkGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 11:02:20 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ujzm6dflqi"
-        },
-        {
-          "Name": "label",
-          "Value": "css/account.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-hljsaL15HGPfpIRvSYBk3fM+TjDP5yufoqYZcrbcXEk="
-        }
-      ]
-    },
-    {
-      "Route": "css/account.ujzm6dflqi.css.gz",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\e94ydnpq1n-ujzm6dflqi.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1024"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"GajbrsvGGWGRnAjqruJsWZ5/I9/leMShpjJEopvD/qo=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 11:02:20 GMT"
+          "Value": "Tue, 27 Jan 2026 15:50:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3798,7 +3745,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ujzm6dflqi"
+          "Value": "bb37i8kzxs"
         },
         {
           "Name": "label",
@@ -3806,18 +3753,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GajbrsvGGWGRnAjqruJsWZ5/I9/leMShpjJEopvD/qo="
+          "Value": "sha256-my66JpytrodTgq7ds50Y6qR+uTU3iH6PrefeEqytkGo="
         }
       ]
     },
     {
-      "Route": "css/dashboard.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\psnf44a92h-i3s8yv1i8u.gz",
+      "Route": "css/account.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\e94ydnpq1n-bb37i8kzxs.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000247463499"
+          "Quality": "0.000552486188"
         }
       ],
       "ResponseHeaders": [
@@ -3827,15 +3774,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "4040"
+          "Value": "1809"
         },
         {
           "Name": "ETag",
-          "Value": "\"ohb9Hr+utVYjhZLxIMAlY4u+GzFukD7mLIAbU9cdhi8=\""
+          "Value": "\"my66JpytrodTgq7ds50Y6qR+uTU3iH6PrefeEqytkGo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 14:44:26 GMT"
+          "Value": "Tue, 27 Jan 2026 15:50:48 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3855,18 +3802,163 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Pg5Xi1B6NuJWXfqN8fnOjO4bMdl85y77b0nAOm9mT3s=\""
+          "Value": "W/\"h34YK+2w/Ec21asm9gEQ+JkpGU/oKPk3N63zKgeYQvg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Pg5Xi1B6NuJWXfqN8fnOjO4bMdl85y77b0nAOm9mT3s="
+          "Value": "sha256-h34YK+2w/Ec21asm9gEQ+JkpGU/oKPk3N63zKgeYQvg="
         }
       ]
     },
     {
-      "Route": "css/dashboard.css",
+      "Route": "css/account.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\account.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8020"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"h34YK+2w/Ec21asm9gEQ+JkpGU/oKPk3N63zKgeYQvg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Jan 2026 15:50:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-h34YK+2w/Ec21asm9gEQ+JkpGU/oKPk3N63zKgeYQvg="
+        }
+      ]
+    },
+    {
+      "Route": "css/account.css.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\e94ydnpq1n-bb37i8kzxs.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1809"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"my66JpytrodTgq7ds50Y6qR+uTU3iH6PrefeEqytkGo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Jan 2026 15:50:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-my66JpytrodTgq7ds50Y6qR+uTU3iH6PrefeEqytkGo="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.638rdlgyex.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\psnf44a92h-638rdlgyex.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000247218789"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4044"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"acp1JYupq30Ds8T+n0Nrz+GGb7fu3yzHtVS1bdmgN20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:20:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"soInLYVFpjM7zagnV3lZWjkqKfWg98+f9Rofndu8wXE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "638rdlgyex"
+        },
+        {
+          "Name": "label",
+          "Value": "css/dashboard.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-soInLYVFpjM7zagnV3lZWjkqKfWg98+f9Rofndu8wXE="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.638rdlgyex.css",
       "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\dashboard.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -3876,7 +3968,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21976"
+          "Value": "21982"
         },
         {
           "Name": "Content-Type",
@@ -3884,121 +3976,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Pg5Xi1B6NuJWXfqN8fnOjO4bMdl85y77b0nAOm9mT3s=\""
+          "Value": "\"soInLYVFpjM7zagnV3lZWjkqKfWg98+f9Rofndu8wXE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 14:44:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Pg5Xi1B6NuJWXfqN8fnOjO4bMdl85y77b0nAOm9mT3s="
-        }
-      ]
-    },
-    {
-      "Route": "css/dashboard.css.gz",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\psnf44a92h-i3s8yv1i8u.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4040"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ohb9Hr+utVYjhZLxIMAlY4u+GzFukD7mLIAbU9cdhi8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 14:44:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ohb9Hr+utVYjhZLxIMAlY4u+GzFukD7mLIAbU9cdhi8="
-        }
-      ]
-    },
-    {
-      "Route": "css/dashboard.i3s8yv1i8u.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\psnf44a92h-i3s8yv1i8u.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000247463499"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4040"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ohb9Hr+utVYjhZLxIMAlY4u+GzFukD7mLIAbU9cdhi8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 14:44:26 GMT"
+          "Value": "Wed, 28 Jan 2026 09:20:41 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Pg5Xi1B6NuJWXfqN8fnOjO4bMdl85y77b0nAOm9mT3s=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i3s8yv1i8u"
+          "Value": "638rdlgyex"
         },
         {
           "Name": "label",
@@ -4006,13 +3998,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Pg5Xi1B6NuJWXfqN8fnOjO4bMdl85y77b0nAOm9mT3s="
+          "Value": "sha256-soInLYVFpjM7zagnV3lZWjkqKfWg98+f9Rofndu8wXE="
         }
       ]
     },
     {
-      "Route": "css/dashboard.i3s8yv1i8u.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\dashboard.css",
+      "Route": "css/dashboard.638rdlgyex.css.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\psnf44a92h-638rdlgyex.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4021,7 +4013,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21976"
+          "Value": "4044"
         },
         {
           "Name": "Content-Type",
@@ -4029,56 +4021,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Pg5Xi1B6NuJWXfqN8fnOjO4bMdl85y77b0nAOm9mT3s=\""
+          "Value": "\"acp1JYupq30Ds8T+n0Nrz+GGb7fu3yzHtVS1bdmgN20=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 14:44:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "i3s8yv1i8u"
-        },
-        {
-          "Name": "label",
-          "Value": "css/dashboard.css"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Pg5Xi1B6NuJWXfqN8fnOjO4bMdl85y77b0nAOm9mT3s="
-        }
-      ]
-    },
-    {
-      "Route": "css/dashboard.i3s8yv1i8u.css.gz",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\psnf44a92h-i3s8yv1i8u.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "4040"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ohb9Hr+utVYjhZLxIMAlY4u+GzFukD7mLIAbU9cdhi8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 14:44:26 GMT"
+          "Value": "Wed, 28 Jan 2026 09:20:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4096,7 +4043,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "i3s8yv1i8u"
+          "Value": "638rdlgyex"
         },
         {
           "Name": "label",
@@ -4104,18 +4051,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ohb9Hr+utVYjhZLxIMAlY4u+GzFukD7mLIAbU9cdhi8="
+          "Value": "sha256-acp1JYupq30Ds8T+n0Nrz+GGb7fu3yzHtVS1bdmgN20="
         }
       ]
     },
     {
-      "Route": "css/site.0no3rsanio.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\6ky5vwgz4q-0no3rsanio.gz",
+      "Route": "css/dashboard.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\psnf44a92h-638rdlgyex.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001703577513"
+          "Quality": "0.000247218789"
         }
       ],
       "ResponseHeaders": [
@@ -4125,19 +4072,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "586"
+          "Value": "4044"
         },
         {
           "Name": "ETag",
-          "Value": "\"d2H6sPGxXaCDUn+4Rd7Xz7KBysvNVFXO13wJf2Y39p8=\""
+          "Value": "\"acp1JYupq30Ds8T+n0Nrz+GGb7fu3yzHtVS1bdmgN20=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:55:15 GMT"
+          "Value": "Wed, 28 Jan 2026 09:20:41 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -4153,26 +4100,155 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"hBVPJD25Ci6CdtAV2q9PzgqhPgeyTrOW6b3jjogI2o4=\""
+          "Value": "W/\"soInLYVFpjM7zagnV3lZWjkqKfWg98+f9Rofndu8wXE=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "0no3rsanio"
-        },
-        {
-          "Name": "label",
-          "Value": "css/site.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-hBVPJD25Ci6CdtAV2q9PzgqhPgeyTrOW6b3jjogI2o4="
+          "Value": "sha256-soInLYVFpjM7zagnV3lZWjkqKfWg98+f9Rofndu8wXE="
         }
       ]
     },
     {
-      "Route": "css/site.0no3rsanio.css",
+      "Route": "css/dashboard.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\dashboard.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21982"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"soInLYVFpjM7zagnV3lZWjkqKfWg98+f9Rofndu8wXE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:20:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-soInLYVFpjM7zagnV3lZWjkqKfWg98+f9Rofndu8wXE="
+        }
+      ]
+    },
+    {
+      "Route": "css/dashboard.css.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\psnf44a92h-638rdlgyex.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "4044"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"acp1JYupq30Ds8T+n0Nrz+GGb7fu3yzHtVS1bdmgN20=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:20:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-acp1JYupq30Ds8T+n0Nrz+GGb7fu3yzHtVS1bdmgN20="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\6ky5vwgz4q-ptyczkyoeo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001213592233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "823"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tF0cCeuH4+XxOp79jVLIOhgKdlxGHrNaGJZ77raeAyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:17:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s9Es4YKQSUnzH49dPIK34qZSvI63CroS8uiTxO6UMrE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9Es4YKQSUnzH49dPIK34qZSvI63CroS8uiTxO6UMrE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css",
       "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4182,7 +4258,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1305"
+          "Value": "1864"
         },
         {
           "Name": "Content-Type",
@@ -4190,11 +4266,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"hBVPJD25Ci6CdtAV2q9PzgqhPgeyTrOW6b3jjogI2o4=\""
+          "Value": "\"s9Es4YKQSUnzH49dPIK34qZSvI63CroS8uiTxO6UMrE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:55:15 GMT"
+          "Value": "Wed, 28 Jan 2026 09:17:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9Es4YKQSUnzH49dPIK34qZSvI63CroS8uiTxO6UMrE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.css.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\6ky5vwgz4q-ptyczkyoeo.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "823"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tF0cCeuH4+XxOp79jVLIOhgKdlxGHrNaGJZ77raeAyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:17:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tF0cCeuH4+XxOp79jVLIOhgKdlxGHrNaGJZ77raeAyY="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ptyczkyoeo.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\6ky5vwgz4q-ptyczkyoeo.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001213592233"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "823"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tF0cCeuH4+XxOp79jVLIOhgKdlxGHrNaGJZ77raeAyY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:17:11 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"s9Es4YKQSUnzH49dPIK34qZSvI63CroS8uiTxO6UMrE=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ptyczkyoeo"
+        },
+        {
+          "Name": "label",
+          "Value": "css/site.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s9Es4YKQSUnzH49dPIK34qZSvI63CroS8uiTxO6UMrE="
+        }
+      ]
+    },
+    {
+      "Route": "css/site.ptyczkyoeo.css",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\site.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1864"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s9Es4YKQSUnzH49dPIK34qZSvI63CroS8uiTxO6UMrE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 28 Jan 2026 09:17:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4204,7 +4425,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0no3rsanio"
+          "Value": "ptyczkyoeo"
         },
         {
           "Name": "label",
@@ -4212,13 +4433,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-hBVPJD25Ci6CdtAV2q9PzgqhPgeyTrOW6b3jjogI2o4="
+          "Value": "sha256-s9Es4YKQSUnzH49dPIK34qZSvI63CroS8uiTxO6UMrE="
         }
       ]
     },
     {
-      "Route": "css/site.0no3rsanio.css.gz",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\6ky5vwgz4q-0no3rsanio.gz",
+      "Route": "css/site.ptyczkyoeo.css.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\6ky5vwgz4q-ptyczkyoeo.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4227,7 +4448,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "586"
+          "Value": "823"
         },
         {
           "Name": "Content-Type",
@@ -4235,11 +4456,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"d2H6sPGxXaCDUn+4Rd7Xz7KBysvNVFXO13wJf2Y39p8=\""
+          "Value": "\"tF0cCeuH4+XxOp79jVLIOhgKdlxGHrNaGJZ77raeAyY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:55:15 GMT"
+          "Value": "Wed, 28 Jan 2026 09:17:11 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4257,7 +4478,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "0no3rsanio"
+          "Value": "ptyczkyoeo"
         },
         {
           "Name": "label",
@@ -4265,144 +4486,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-d2H6sPGxXaCDUn+4Rd7Xz7KBysvNVFXO13wJf2Y39p8="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\6ky5vwgz4q-0no3rsanio.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.001703577513"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "586"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d2H6sPGxXaCDUn+4Rd7Xz7KBysvNVFXO13wJf2Y39p8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:55:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"hBVPJD25Ci6CdtAV2q9PzgqhPgeyTrOW6b3jjogI2o4=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hBVPJD25Ci6CdtAV2q9PzgqhPgeyTrOW6b3jjogI2o4="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\css\\site.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1305"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"hBVPJD25Ci6CdtAV2q9PzgqhPgeyTrOW6b3jjogI2o4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:55:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-hBVPJD25Ci6CdtAV2q9PzgqhPgeyTrOW6b3jjogI2o4="
-        }
-      ]
-    },
-    {
-      "Route": "css/site.css.gz",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\6ky5vwgz4q-0no3rsanio.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "586"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"d2H6sPGxXaCDUn+4Rd7Xz7KBysvNVFXO13wJf2Y39p8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:55:15 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-d2H6sPGxXaCDUn+4Rd7Xz7KBysvNVFXO13wJf2Y39p8="
+          "Value": "sha256-tF0cCeuH4+XxOp79jVLIOhgKdlxGHrNaGJZ77raeAyY="
         }
       ]
     },
@@ -4705,6 +4789,170 @@
       ]
     },
     {
+      "Route": "images/2149105853.i13zxc0xhm.jpg",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\2149105853.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "834986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2lQ6U2E9o4z/vwIi3Z7MPFvsNudESyq8kdVK5MB/hfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Jan 2026 15:58:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i13zxc0xhm"
+        },
+        {
+          "Name": "label",
+          "Value": "images/2149105853.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-2lQ6U2E9o4z/vwIi3Z7MPFvsNudESyq8kdVK5MB/hfM="
+        }
+      ]
+    },
+    {
+      "Route": "images/2149105853.jpg",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\2149105853.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "834986"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"2lQ6U2E9o4z/vwIi3Z7MPFvsNudESyq8kdVK5MB/hfM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Jan 2026 15:58:46 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-2lQ6U2E9o4z/vwIi3Z7MPFvsNudESyq8kdVK5MB/hfM="
+        }
+      ]
+    },
+    {
+      "Route": "images/70001986_moso 21.8uwits1qz2.jpg",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\70001986_moso 21.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1235342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wDPLFeMe53g0hBgFetZztZlloXadpmiIEapHrJvS21k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Jan 2026 15:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8uwits1qz2"
+        },
+        {
+          "Name": "label",
+          "Value": "images/70001986_moso 21.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-wDPLFeMe53g0hBgFetZztZlloXadpmiIEapHrJvS21k="
+        }
+      ]
+    },
+    {
+      "Route": "images/70001986_moso 21.jpg",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\70001986_moso 21.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1235342"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"wDPLFeMe53g0hBgFetZztZlloXadpmiIEapHrJvS21k=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Jan 2026 15:06:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-wDPLFeMe53g0hBgFetZztZlloXadpmiIEapHrJvS21k="
+        }
+      ]
+    },
+    {
       "Route": "images/bg.jpg",
       "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\bg.jpg",
       "Selectors": [],
@@ -4787,8 +5035,8 @@
       ]
     },
     {
-      "Route": "images/login.a6m2nwzas5.jpg",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\login.jpg",
+      "Route": "images/gset.jpg",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\gset.jpg",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4797,7 +5045,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "692342"
+          "Value": "1361467"
         },
         {
           "Name": "Content-Type",
@@ -4805,56 +5053,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Pnzu1FN79qbVXrB7qcIvR0ZnV8FLo1RYTyUDbpbgpqA=\""
+          "Value": "\"uXk+lq1254Pi3QTGD87hmA3sfjM/oLjQB37Y7J8Wafc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 20 Jan 2026 11:21:26 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "a6m2nwzas5"
-        },
-        {
-          "Name": "label",
-          "Value": "images/login.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Pnzu1FN79qbVXrB7qcIvR0ZnV8FLo1RYTyUDbpbgpqA="
-        }
-      ]
-    },
-    {
-      "Route": "images/login.jpg",
-      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\login.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "692342"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Pnzu1FN79qbVXrB7qcIvR0ZnV8FLo1RYTyUDbpbgpqA=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 20 Jan 2026 11:21:26 GMT"
+          "Value": "Tue, 27 Jan 2026 15:02:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4864,7 +5067,350 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Pnzu1FN79qbVXrB7qcIvR0ZnV8FLo1RYTyUDbpbgpqA="
+          "Value": "sha256-uXk+lq1254Pi3QTGD87hmA3sfjM/oLjQB37Y7J8Wafc="
+        }
+      ]
+    },
+    {
+      "Route": "images/gset.ng7a2c5ct1.jpg",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\gset.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1361467"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"uXk+lq1254Pi3QTGD87hmA3sfjM/oLjQB37Y7J8Wafc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 27 Jan 2026 15:02:03 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ng7a2c5ct1"
+        },
+        {
+          "Name": "label",
+          "Value": "images/gset.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-uXk+lq1254Pi3QTGD87hmA3sfjM/oLjQB37Y7J8Wafc="
+        }
+      ]
+    },
+    {
+      "Route": "images/malesoft.ico",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\bgbydh0uo5-wh91epy4cx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000088448611"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11305"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FejajXSRc/uDZoW0AT6Vq030edFxIhr62Q2Q1Dx+dS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Jun 2008 20:15:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rCe1v55ZRw2iZQ9L1qZpg4fKHhShGV9sMitCq8BeHZA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rCe1v55ZRw2iZQ9L1qZpg4fKHhShGV9sMitCq8BeHZA="
+        }
+      ]
+    },
+    {
+      "Route": "images/malesoft.ico",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\malesoft.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rCe1v55ZRw2iZQ9L1qZpg4fKHhShGV9sMitCq8BeHZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Jun 2008 20:15:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-rCe1v55ZRw2iZQ9L1qZpg4fKHhShGV9sMitCq8BeHZA="
+        }
+      ]
+    },
+    {
+      "Route": "images/malesoft.ico.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\bgbydh0uo5-wh91epy4cx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FejajXSRc/uDZoW0AT6Vq030edFxIhr62Q2Q1Dx+dS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Jun 2008 20:15:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FejajXSRc/uDZoW0AT6Vq030edFxIhr62Q2Q1Dx+dS0="
+        }
+      ]
+    },
+    {
+      "Route": "images/malesoft.wh91epy4cx.ico",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\bgbydh0uo5-wh91epy4cx.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000088448611"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11305"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FejajXSRc/uDZoW0AT6Vq030edFxIhr62Q2Q1Dx+dS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Jun 2008 20:15:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"rCe1v55ZRw2iZQ9L1qZpg4fKHhShGV9sMitCq8BeHZA=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wh91epy4cx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/malesoft.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rCe1v55ZRw2iZQ9L1qZpg4fKHhShGV9sMitCq8BeHZA="
+        }
+      ]
+    },
+    {
+      "Route": "images/malesoft.wh91epy4cx.ico",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\wwwroot\\images\\malesoft.ico",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "20782"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"rCe1v55ZRw2iZQ9L1qZpg4fKHhShGV9sMitCq8BeHZA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Jun 2008 20:15:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wh91epy4cx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/malesoft.ico"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-rCe1v55ZRw2iZQ9L1qZpg4fKHhShGV9sMitCq8BeHZA="
+        }
+      ]
+    },
+    {
+      "Route": "images/malesoft.wh91epy4cx.ico.gz",
+      "AssetFile": "Y:\\dev\\.NET\\MVC\\LoginTrain\\codehubmvc\\Autentication\\obj\\Debug\\net9.0\\compressed\\bgbydh0uo5-wh91epy4cx.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "11305"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/x-icon"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FejajXSRc/uDZoW0AT6Vq030edFxIhr62Q2Q1Dx+dS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Mon, 30 Jun 2008 20:15:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wh91epy4cx"
+        },
+        {
+          "Name": "label",
+          "Value": "images/malesoft.ico.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FejajXSRc/uDZoW0AT6Vq030edFxIhr62Q2Q1Dx+dS0="
         }
       ]
     },
@@ -5139,7 +5685,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:54:11 GMT"
+          "Value": "Wed, 28 Jan 2026 07:42:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5200,7 +5746,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:54:11 GMT"
+          "Value": "Wed, 28 Jan 2026 07:42:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5245,7 +5791,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:54:11 GMT"
+          "Value": "Wed, 28 Jan 2026 07:42:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5300,7 +5846,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:54:11 GMT"
+          "Value": "Wed, 28 Jan 2026 07:42:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5353,7 +5899,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:54:11 GMT"
+          "Value": "Wed, 28 Jan 2026 07:42:09 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -5390,7 +5936,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 21 Jan 2026 13:54:11 GMT"
+          "Value": "Wed, 28 Jan 2026 07:42:09 GMT"
         },
         {
           "Name": "Cache-Control",

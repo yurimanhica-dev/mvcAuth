@@ -11,23 +11,23 @@
       <div class="front">
         <img src="/images/verifs.jpg" alt="" />
         <div class="text">
-          <span class="text-1"
-            >Every new friend is a <br />
-            new adventure</span
-          >
-          <span class="text-2">Let's get connected</span>
+          <span class="text-1">MALESOFTWARE</span>
+          <span class="text-2">MODULO DE R.H</span>
         </div>
       </div>
     </div>
     <div class="forms">
       <div class="form-content">
         <div class="login-form">
-          <div class="title">Verify Email</div>
+          <div class="d-flex flex-column align-items-center justify-content-center mb-3">
+            <img src="/images/malesoft.ico" alt="Logo" class="mb-3" style="width: 50px; height: 50px;"/>
+            <h2 class="ms">REDEFINIR SENHA</h2>
+          </div>
           <form asp-action="VerifyEmail" method="post">
             <div class="input-boxes">
               <div class="input-box">
                 <i class="fas fa-envelope"></i>
-                <input asp-for="Email" placeholder="Enter your Email" />
+                <input asp-for="Email" placeholder="Insere o seu Email" />
               </div>
               <div asp-validation-summary="ModelOnly" class="text-danger"></div>
               <span asp-validation-for="Email" class="text-danger"></span>
@@ -35,8 +35,8 @@
                 <input type="submit" value="Verify Email" />
               </div>
               <div class="text sign-up-text">
-                Don't have an account?
-                <a asp-controller="Account" asp-action="Register">Signup now</a>
+                Lembrou da Senha?
+                <a asp-controller="Account" asp-action="Login">Login</a>
               </div>
             </div>
           </form>

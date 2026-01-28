@@ -1,3 +1,16 @@
+@using Autentication.Helpers
+@using Autentication.Models
+@using Microsoft.AspNetCore.Identity
+@using System.Security.Claims
+
+@inject UserManager<Users> UserManager
+
+@{
+    var currentUser = await UserManager.GetUserAsync(User);
+    var fullName = StringUtils.ToTitleCase(currentUser?.FullName ?? User.Identity?.Name ?? "User");
+    var profileUrl = currentUser?.ProfilePicture;
+}
+
 <!DOCTYPE html>
 <html lang="pt">
 <head>
@@ -5,6 +18,7 @@
     <title>@ViewData["Title"] - Dashboard</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="shortcut icon" href="~/images/malesoft.ico" type="image/x-icon" />
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Flex:opsz,wght@6..144,1..1000&display=swap" rel="stylesheet">
     <!-- Google Icons -->
@@ -94,15 +108,21 @@
               <span class="material-symbols-rounded">notifications</span>
               <div class="notification-badge">3</div>
             </div>
+            <div class="mt-3">
+              <p>@fullName</p>
+            </div>
             <!-- User Profile -->
             <div class="user-menu" id="userMenu">
               <div class="user-menu-trigger" id="user-menu-trigger">
                 <div class="user-avatar-small">
-                  <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face&auto=format" alt="User Avatar" />
+                  <img src="@profileUrl" alt="User Avatar" />
                 </div>
               </div>
               <div class="user-menu-dropdown">
-                <a href="#" class="user-menu-item">
+                <a href="#" class="p-4 fs-7">
+                  <span>@User.Identity?.Name</span>
+                </a>
+                <a href="#" class="user-menu-item mt-2">
                   <span class="icon material-symbols-rounded">person</span>
                   <span>Profile</span>
                 </a>
