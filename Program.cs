@@ -2,6 +2,7 @@ using Autentication.Data;
 using Autentication.Helpers;
 using Autentication.Models;
 using Autentication.Services;
+using Microsoft.AspNetCore.DataProtection;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
@@ -72,6 +73,11 @@ builder.Services.AddSession(options =>
     options.Cookie.IsEssential = true;
 });
 
+builder.Services.AddDataProtection()
+    .PersistKeysToFileSystem(
+        new DirectoryInfo(Path.Combine(
+            builder.Environment.ContentRootPath, "keys")))
+    .SetApplicationName("Autentication");
 
 
 var app = builder.Build();

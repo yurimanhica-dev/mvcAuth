@@ -452,3 +452,9 @@ Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\obj\Debug\net9.0\compressed\
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\obj\Debug\net9.0\compressed\6ky5vwgz4q-ptyczkyoeo.gz
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\obj\Debug\net9.0\compressed\c4nkd5u7ry-a3iuie6czg.gz
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\obj\Debug\net9.0\compressed\ilhucx6z5a-a3iuie6czg.gz
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Debug\net9.0\publish\publish\web.config
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Debug\net9.0\publish\publish\appsettings.Development.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Debug\net9.0\publish\publish\appsettings.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Debug\net9.0\publish\publish\autentication.deps.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Debug\net9.0\publish\publish\autentication.runtimeconfig.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Debug\net9.0\publish\publish\autentication.staticwebassets.endpoints.json
