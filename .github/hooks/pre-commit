@@ -5,3 +5,6 @@ if [ $? -ne 0 ]; then
   echo "❌ Código mal Formatado. Por favor, execute 'dotnet format' para corrigir os problemas de formatação e tente novamente."
   exit 1
 fi
+
+
+#ENDOFILINE - git config --global core.autocrlf true
