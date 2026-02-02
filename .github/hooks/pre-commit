@@ -7,4 +7,4 @@ if [ $? -ne 0 ]; then
 fi
 
 
-#ENDOFILINE - git config --global core.autocrlf true
+#ENDOFILINE git config --global core.autocrlf true

@@ -1,0 +1,5 @@
+# Garante CRLF em arquivos C# e SLN
+* text=auto eol=lf
+*.cs text eol=lf
+*.csproj text eol=lf
+*.sln text eol=lf
