@@ -1,0 +1,37 @@
+name: Deploy Main
+
+on:
+    push:
+        branches: ["main"]
+
+jobs:
+    merge-and-deploy:
+        runs-on: windows-latest
+
+        steps:
+            - name: Checkout
+              uses: actions/checkout@v4
+              with:
+                  fetch-depth: 0 # necessário para merge completo
+
+            - name: Setup .NET
+              uses: actions/setup-dotnet@v4
+              with:
+                  dotnet-version: 9.0.x
+
+            - name: Merge develop into main
+              run: |
+                  git config user.name "GitHub Actions"
+                  git config user.email "actions@github.com"
+                  git merge origin/develop --no-ff -m "Merge branch 'develop' into 'main' via GitHub Actions"
+                  git push origin main
+              shell: pwsh
+
+            - name: Restore dependencies
+              run: dotnet restore
+
+            - name: Build
+              run: dotnet build --no-restore
+
+            - name: Publish para IIS
+              run: dotnet publish autentication.sln -c Release -o "C:\inetpub\wwwroot\authentication"
