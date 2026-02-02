@@ -29,13 +29,4 @@ jobs:
             - name: Check code formatting
               run: dotnet format autentication.sln --verify-no-changes --verbosity diagnostic
 
-            - name: Merge into Main
-              if: ${{ success() }} # Só roda se todos os passos anteriores passaram
-              run: |
-                  git config user.name "GitHub Actions"
-                  git config user.email "actions@github.com"
-                  git fetch origin main
-                  git checkout main
-                  git merge origin/develop --no-ff -m "Merge branch 'develop' into 'main' via GitHub Actions"
-                  git push origin main
-              shell: pwsh
+            
