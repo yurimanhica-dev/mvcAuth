@@ -5,27 +5,18 @@ on:
         branches: ["main"]
 
 jobs:
-    merge-and-deploy:
+    deploy-to-iis:
         runs-on: windows-latest
+        environment: Production # Aqui você configura aprovação manual
 
         steps:
             - name: Checkout
               uses: actions/checkout@v4
-              with:
-                  fetch-depth: 0 # necessário para merge completo
 
             - name: Setup .NET
               uses: actions/setup-dotnet@v4
               with:
                   dotnet-version: 9.0.x
-
-            - name: Merge develop into main
-              run: |
-                  git config user.name "GitHub Actions"
-                  git config user.email "actions@github.com"
-                  git merge origin/develop --no-ff -m "Merge branch 'develop' into 'main' via GitHub Actions"
-                  git push origin main
-              shell: pwsh
 
             - name: Restore dependencies
               run: dotnet restore

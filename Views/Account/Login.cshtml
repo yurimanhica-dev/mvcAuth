@@ -1,8 +1,8 @@
-@using Autentication.ViewModels 
-@model LoginViewModel 
-@{ 
-    ViewData ["Title"] = "Authentication";
-    Layout = "~/Views/Shared/_AccountLayout.cshtml"; 
+@using Autentication.ViewModels
+@model LoginViewModel
+@{
+  ViewData["Title"] = "Authentication";
+  Layout = "~/Views/Shared/_AccountLayout.cshtml";
 }
 
 <div class="bg">
@@ -21,7 +21,7 @@
       <div class="form-content">
         <div class="login-form">
           <div class="d-flex flex-column align-items-center justify-content-center mb-3">
-            <img src="/images/malesoft.ico" alt="Logo" class="mb-3" style="width: 50px; height: 50px;"/>
+            <img src="/images/malesoft.ico" alt="Logo" class="mb-3" style="width: 50px; height: 50px;" />
             <h2 class="ms">LOGIN</h2>
           </div>
           <form asp-action="Login" method="post">
@@ -29,23 +29,20 @@
               <div asp-validation-summary="ModelOnly" class="text-danger"></div>
               <div class="input-box">
                 <i class="fas fa-envelope"></i>
-                <input asp-for="Email" placeholder="Enter your Email" />
+                <input asp-for="Email" placeholder="Enter your Email Edited" />
               </div>
-                <span asp-validation-for="Email" class="text-danger fs-6"></span>
+              <span asp-validation-for="Email" class="text-danger fs-6"></span>
               <div class="input-box">
                 <i class="fas fa-lock"></i>
                 <input asp-for="Password" placeholder="Enter your password" />
               </div>
-                <span asp-validation-for="Password" class="text-danger fs-6"></span>
+              <span asp-validation-for="Password" class="text-danger fs-6"></span>
               <div class="text sign-up-text d-flex justify-content-between">
                 <label class="ml-3">
-                  <input class="checkbox" type="checkbox"
-                    asp-for="RememberMe"
-                  />
+                  <input class="checkbox" type="checkbox" asp-for="RememberMe" />
                   @Html.DisplayNameFor(m => m.RememberMe)
                 </label>
-                <a asp-controller="Account" asp-action="VerifyEmail"
-                  >Forgot password?</a>
+                <a asp-controller="Account" asp-action="VerifyEmail">Forgot password?</a>
               </div>
               <div class="button input-box">
                 <input type="submit" value="Login" />
@@ -53,12 +50,8 @@
               <div class="d-flex flex-column align-items-center mt-3">
                 <p class="text">Or use</p>
 
-                <a
-                  asp-controller="ExternalAuth"
-                  asp-action="GoogleLogin"
-                  class="google-circle"
-                  title="Entrar com Google"
-                >
+                <a asp-controller="ExternalAuth" asp-action="GoogleLogin" class="google-circle"
+                  title="Entrar com Google">
                   <i class="fab fa-google"></i>
                 </a>
               </div>
