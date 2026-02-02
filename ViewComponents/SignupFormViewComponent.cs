@@ -1,5 +1,6 @@
-using Microsoft.AspNetCore.Mvc;
 using Autentication.ViewModels;
+
+using Microsoft.AspNetCore.Mvc;
 
 public class SignupFormViewComponent : ViewComponent
 {

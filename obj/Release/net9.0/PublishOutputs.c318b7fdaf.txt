@@ -1,4 +1,5 @@
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\autentication.exe
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\publish\publish\web.config
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\publish\web.config
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\appsettings.Development.json
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\appsettings.json
@@ -7,6 +8,11 @@ Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\publish\appsettings.
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\publish\autentication.deps.json
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\publish\autentication.runtimeconfig.json
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\publish\autentication.staticwebassets.endpoints.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\publish\publish\appsettings.Development.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\publish\publish\appsettings.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\publish\publish\autentication.deps.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\publish\publish\autentication.runtimeconfig.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\publish\publish\autentication.staticwebassets.endpoints.json
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\autentication.dll
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\autentication.deps.json
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\publish\autentication.runtimeconfig.json

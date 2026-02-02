@@ -1,6 +1,8 @@
 using System.Security.Claims;
+
 using Autentication.Helpers;
 using Autentication.Models;
+
 using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 

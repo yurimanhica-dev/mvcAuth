@@ -230,3 +230,9 @@ Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\obj\Release\net9.0\compresse
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\obj\Release\net9.0\compressed\bgbydh0uo5-wh91epy4cx.gz
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\obj\Release\net9.0\compressed\c4nkd5u7ry-a3iuie6czg.gz
 Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\obj\Release\net9.0\compressed\ilhucx6z5a-a3iuie6czg.gz
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Release\net9.0\publish\publish\web.config
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Release\net9.0\publish\publish\appsettings.Development.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Release\net9.0\publish\publish\appsettings.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Release\net9.0\publish\publish\autentication.deps.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Release\net9.0\publish\publish\autentication.runtimeconfig.json
+Y:\dev\.NET\MVC\LoginTrain\codehubmvc\Autentication\bin\Release\net9.0\publish\publish\autentication.staticwebassets.endpoints.json
